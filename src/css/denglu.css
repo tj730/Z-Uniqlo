@@ -1,0 +1,51 @@
+.w1280{width: 1280px;margin: 0 auto;}
+header .w1280 .nav{width: 100%;height: 40px;line-height: 40px;margin-bottom: 10px;}
+header .w1280 .nav ul{float: right;}
+header .w1280 .nav ul li{float: left;}
+header .w1280 .nav ul li i{margin-right: 5px;}
+header .w1280 .nav ul li a{padding-left: 12px;padding-right: 12px;border-left: 1px dotted #ccc;}
+header .w1280 .nav ul li:nth-child(8) a{border-right: 1px solid #d6d6d6; margin-right: 10px;}
+header .w1280 .nav ul li div{height: 30px; padding-bottom: 5px;line-height: 40px;border-bottom: 1px solid black;}
+header .w1280 .nav ul li input{width: 240px;height: 15px;border: 0;}
+
+header .w1280 .snav{width: 100%;height: 50px;line-height: 50px;margin-bottom: 20px;}
+header .w1280 .snav a{font-weight: bold;}
+header .w1280 .snav a:hover{color: red;}
+header .w1280 .snav .left-nav{float: left;}
+header .w1280 .snav .left-nav li{float: left;}
+header .w1280 .snav .left-nav li a{padding-right: 15px;padding-left: 15px;border-left: 1px dotted black;}
+header .w1280 .snav .left-nav li:nth-child(1) a{padding-left: 0;border: 0;}
+header .w1280 .snav .left-nav li:nth-child(2) a{padding-left: 0;border: 0;}
+
+header .w1280 .snav .right-nav{float: right;}
+header .w1280 .snav .right-nav{ background-color: #a1a1a1;}
+header .w1280 .snav .right-nav li{float: left;}
+header .w1280 .snav .right-nav li a{padding-right: 30px;padding-left: 30px;border-left: 1px dotted white;color: white;}
+header .w1280 .snav .right-nav li a:hover{color: red;}
+header .w1280 .snav .right-nav li:nth-child(1) a{border: 0;}
+header .w1280 .snav .right-nav li:nth-child(4) a{border: 0;}
+header .w1280 .snav .right-nav li:nth-child(4){background-color: #666;}
+
+
+
+
+
+
+
+
+
+
+
+.footer .w1280 .ftop{margin-bottom: 40px;}
+.footer .w1280 .ftop div{float: left;}
+.footer .w1280 .ftop ul{height: 50px;text-align: center;background-color: black;line-height: 50px;}
+.footer .w1280 .ftop li{width: 306px;float: left;border-left: 1px dotted white;}
+.footer .w1280 .ftop li:nth-child(1){border: 0;}
+.footer .w1280 .ftop ul a{width: 306px;color: white;}
+.footer .w1280 .ftop ul a:hover{color: red;}
+
+.footer .fbottom{position: relative;height: 100px;}
+.footer .fbottom .textrecord{position: absolute;float: left;bottom: 2px;left: 4px;}
+.footer .fbottom .textrecord span{color: #a6a6a6;letter-spacing: 1px;}
+.footer .fbottom .imgrecord{float: right;position: absolute;bottom: 0;right: 0;}
+.footer .fbottom .imgrecord a:nth-child(1){position: absolute;bottom: 0;right: 100px;}

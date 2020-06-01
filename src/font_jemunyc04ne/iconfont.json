@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "451804",
+      "name": "站内信",
+      "font_class": "znx",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "653921",
+      "name": "门店",
+      "font_class": "mendian",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "3547648",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    },
+    {
+      "icon_id": "4398392",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7222813",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "10540430",
+      "name": "黑心",
+      "font_class": "heixin",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "14641960",
+      "name": "账户",
+      "font_class": "zhanghu",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    }
+  ]
+}
